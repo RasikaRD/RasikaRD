@@ -12,8 +12,10 @@
 <ul align="center">
 🌱 I’m currently learning as Full Stack Developer<br>
 🤔 I’m looking for help with system design<br>
-📫 Reach me via rasikarajith94@gmail.com <br>
+📫 Reach me via <a> rasikarajith94@gmail.com </a> <br>
 </ul>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
@@ -33,18 +35,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
 </div>
 
+---
 
-<!--
-**RasikaRD/RasikaRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats :
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RasikaRD&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RasikaRD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
